@@ -1,2 +1,2 @@
-# Quantitative_Biological_Research_Python_course
-tracking coursework progression and updates
+# Python Self Study
+This repository will contain my progression through various online python coures
